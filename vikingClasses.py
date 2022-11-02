@@ -8,3 +8,4 @@ class Soldier ():
 
     def receiveDamage(self, damage):
         self.health -= damage
+
